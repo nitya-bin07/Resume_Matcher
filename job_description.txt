@@ -1,0 +1,49 @@
+Software Engineering Intern (Backend) – Sample Job Description
+
+Location: Bengaluru, India
+
+Duration: 10–12 Weeks
+
+About the Role
+
+We are looking for passionate Software Engineering Interns who enjoy solving challenging problems, building scalable systems, and writing clean, maintainable code. As an intern, you will work with experienced software engineers on real-world products and contribute to the design, development, testing, and deployment of software solutions.
+
+Responsibilities
+
+• Develop high-quality, maintainable, and efficient software.
+• Collaborate with engineers, product managers, and designers.
+• Design and implement RESTful APIs and backend services.
+• Write clean, well-documented, and tested code.
+• Debug, troubleshoot, and optimize existing applications.
+• Participate in code reviews and technical discussions.
+• Learn and adapt to new technologies and frameworks quickly.
+
+Minimum Qualifications
+
+• Currently pursuing a Bachelor's or Master's degree in Computer Science, Information Technology, Electronics, Mathematics, or a related technical discipline.
+• Strong understanding of Data Structures and Algorithms.
+• Good programming skills in at least one language such as C++, Java, or Python.
+• Good problem-solving and analytical skills.
+• Understanding of Object-Oriented Programming concepts.
+• Familiarity with Git and version control.
+• Knowledge of databases such as PostgreSQL, MySQL, or MongoDB.
+
+Preferred Qualifications
+
+• Experience building full-stack or backend applications.
+• Knowledge of JavaScript, React, Node.js, or Express.js.
+• Experience with REST APIs.
+• Familiarity with Linux and command-line tools.
+• Basic understanding of cloud platforms such as Google Cloud Platform (GCP), AWS, or Azure.
+• Familiarity with Docker and containerization.
+• Knowledge of CI/CD pipelines.
+• Experience with SQL and database optimization.
+• Personal projects hosted on GitHub.
+• Strong communication and teamwork skills.
+
+Nice to Have
+
+• Open Source contributions.
+• Competitive Programming experience (Codeforces, LeetCode, CodeChef, etc.).
+• Internship or research experience.
+• Experience deploying applications.
